@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClickMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="colorcode_array">
+        <item>3498db</item>
+        <item>2ecc71</item>
+        <item>9b59b6</item>
+        <item>f1c40f</item>
+        <item>1abc9c</item>
+        <item>2980b9</item>
+        <item>8e44ad</item>
+        <item>e41c1c</item>
+        <item>2ecca9</item>
+        <item>752ecc</item>
+        <item>4f2ecc</item>
+        <item>2eccc3</item>
+        <item>2ecc53</item>
+        <item>2ecc2e</item>
+        <item>5bcc2e</item>
+        <item>9ecc2e</item>
+        <item>cca12e</item>
+        <item>cc712e</item>
+        <item>f1c209</item>
+        <item>86f109</item>
+        <item>f11616</item>
+        <item>9c1818</item>
+    </string-array>
+
+</resources>
